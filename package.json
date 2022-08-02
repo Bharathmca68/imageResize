@@ -1,0 +1,21 @@
+{
+  "name": "imageresize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "image-resize-sharp.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "imagemagick": "^0.1.3",
+    "jimp": "^0.16.1",
+    "looks-same": "^7.3.0",
+    "node-image-resize": "0.0.2",
+    "node-imagemagick": "^0.1.8",
+    "sharp": "^0.29.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node image-resize-sharp.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
